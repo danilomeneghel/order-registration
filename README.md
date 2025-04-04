@@ -43,9 +43,9 @@ API de Cadastro de Ordens, desenvolvido em Java com Spring-Boot.
 ## Instalação
 
 ```
-$ git clone https://github.com/danilomeneghel/register-order.git
+git clone https://github.com/danilomeneghel/order-registration.git
 
-$ cd register-order
+cd order-registration
 ```
 
 
